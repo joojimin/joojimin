@@ -1,4 +1,4 @@
-### Tech Stack
+## Tech Stack
 
 <img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-success?style=flat-square&logo=spring&logoColor=white"/></a>
@@ -10,3 +10,11 @@
 <img src="https://img.shields.io/badge/Maven-yellow?style=flat-square&logo=Apachemaven&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jenkins-yellowgreen?style=flat-square&logo=jenkins&logoColor=white"/></a> <br>
 <img src="https://img.shields.io/badge/Nginx-green?style=flat-square&logo=nginx&logoColor=white"/></a>
+
+---
+
+![jimin's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojimin&show_icons=true&theme=dracula)
+
+
+
+
