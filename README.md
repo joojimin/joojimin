@@ -1,16 +1,12 @@
-### Hi there 👋
+### Tech Stack
 
-<!--
-**joojimin/joojimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Spring-success?style=flat-square&logo=spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Netty-orange?style=flat-square&logoColor=white"/></a> <br>
+<img src="https://img.shields.io/badge/MySQL-lightgray?style=flat-square&logo=mysql&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JPA-9cf?style=flat-square&logo=hibernate&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis&logoColor=white"/></a> <br>
+<img src="https://img.shields.io/badge/Maven-yellow?style=flat-square&logo=Apache maven&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-yellowgreen?style=flat-square&logo=jenkins&logoColor=white"/></a> <br>
+<img src="https://img.shields.io/badge/Nginx-green?style=flat-square&logo=nginx&logoColor=white"/></a>
