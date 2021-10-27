@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-success?style=flat-square&logo=spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=springboot&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Netty-orange?style=flat-square&logoColor=white"/></a> <br>
 <img src="https://img.shields.io/badge/MySQL-lightgray?style=flat-square&logo=mysql&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JPA-9cf?style=flat-square&logo=hibernate&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis-red?style=flat-square&logo=redis&logoColor=white"/></a> <br>
